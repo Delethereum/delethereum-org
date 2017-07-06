@@ -1356,7 +1356,9 @@ figure.swarm .swarm-04 {
 
 figure.ethereum-logo {
 	display: block;
-	background-image: url("../images/ethereum-logo.png");
+	/*background-image: url("../images/ethereum-logo.png");*/
+	background-image: url("../images/diamond-icon@2x.png");
+
 	max-width: 301px;
 	height: 287px;
 	margin: 0 auto;
